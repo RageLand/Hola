@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Holaa
 Adios
+=======
+Holaa 
+chao
+>>>>>>> 350581ed46fc0495fce42fdfdebc4df9e89e9bc7
